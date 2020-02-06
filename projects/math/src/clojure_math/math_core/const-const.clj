@@ -1,0 +1,3 @@
+;; Mathematical constants, as constants, up to 20 decimal places...
+
+(ns clojure-math.math.math-core.const-const)
